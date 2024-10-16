@@ -1,4 +1,3 @@
-
 2.	SELECT c.custid,
 			COUNT(od.orderid) AS numorders,
 			SUM(od.qty) AS totalqyt

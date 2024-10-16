@@ -1,4 +1,3 @@
-
 5.	SELECT 
 		orderid,
 		orderdate,

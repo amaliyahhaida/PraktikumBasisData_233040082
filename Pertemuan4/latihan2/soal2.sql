@@ -1,3 +1,3 @@
 SELECT * from mahasiswa
 Where jurusan = 'Teknik Informatika' 
-AND alamat LIKE '%Jl. Meredeka%;
+AND alamat LIKE '%JL. Merdeka%';

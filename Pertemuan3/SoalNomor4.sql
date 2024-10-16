@@ -1,4 +1,3 @@
-
 4.	SELECT 
 		c.custid, 
 		c.companyname, 

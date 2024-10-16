@@ -1,4 +1,3 @@
-
 1.	SELECT c.empid, c.firstname, c.lastname, c.titleofcourtesy,
 	CASE
 		WHEN c.titleofcourtesy IN ('Ms.', 'Mrs.') THEN 'Female'
