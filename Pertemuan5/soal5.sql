@@ -12,3 +12,5 @@ VALUES
 (8, 199632587, 'Dr. Bima Putra', '1985-02-14', 'Jl. Sakura No. 4',0889013345),
 (9, 197418529, 'Prof. Fajar Setiawan', '1969-07-11', 'Jl. Bunga Raya No. 7',0891123456),
 (10, 191597534, 'Dr. Haidan Ali', '1966-10-30', 'Jl. Kamboja No. 5',0801234567);
+
+
